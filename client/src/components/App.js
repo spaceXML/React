@@ -11,7 +11,7 @@ import VideoUploadPage from "./views/VideoUploadPage/VideoUploadPage";
 import VideoDetailPage from "./views/VideoDetailPage/VideoDetailPage";
 import SubscriptionPage from "./views/SubscriptionPage/SubscriptionPage";
 
-React.render<APP />, document.getElementById('root'));
+
 //null   Anyone Can go inside
 //true   only logged in user can go inside
 //false  logged in user can't go inside
